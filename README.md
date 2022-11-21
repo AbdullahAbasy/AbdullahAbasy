@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... digital marketing 
 - 🌱 I’m currently learning ... digital marketing 
 - 💞️ I’m looking to collaborate on ... digital marketing 
-- 📫 How to reach me ... interested in a digital marketing 
+- 📫 How to reach me ... LinkedIn 
 
 <!---
 AbdullahAbasy/AbdullahAbasy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
